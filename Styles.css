@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400;1,600&display=swap');
+
+span {
+    color:#E30E13;
+}
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(222, 233, 207);
+}
+.bodyvarn {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(205, 206, 203);
+
+}
+.bodylago {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: aquamarine;
+
+}
+.bodyvalle {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(5, 126, 45);
+}
+.bodysan {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(236, 190, 36);
+}
+.bodyletto {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(222, 243, 35);
+}
+.main-section {
+    padding: 20px;
+}
+.image-container {
+    background-color: rgb(222, 233, 207) ;
+    background-image: url('Img\ Valfornace.jpg') ;
+    width: 100%;
+    height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 0;
+
+}
+.image-boccafornace {
+    background-color: aquamarine;
+    background-image: url('lagoboccafornace.webp');
+    width: 100%;
+    height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 0;
+
+}
+.image-sangiusto {
+    background-color: rgb(236, 190, 36);
+    background-image: url('chiesasangiusto.jpg') ;
+    width: 100%;
+    height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 0;
+
+}
+.image-fiordimonte {
+    background-color: rgb(5, 126, 45);
+    background-image: url('vallefiordimonte.jpg') ;
+    width: 100%;
+    height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 0;
+
+}
+.image-beldiletto {
+    background-color: rgb(222, 243, 35) ;
+    background-image: url('castellobeldiletto.jpg') ;
+    width: 100%;
+    height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 0;
+
+}
+.image-varnelli {
+    background-color: rgb(205, 206, 203) ;
+    background-image: url('varnelli.jpg') ;
+    width: 100%;
+    height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 0;
+
+}
+h1 {
+    font-family: 'Prata', serif;
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 0;
+    margin-top: 0;
+    
+}
+h3 {
+    font-family: 'Prata', serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h4 {
+    text-align: center;
+}
+h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    font-size: 1em;
+    background:linear-gradient(265deg, rgb(222,233,207), green)
+     
+}
+#h6varn {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    font-size: 1em;
+    background:linear-gradient(265deg, rgb(205,206,203), black )
+}
+.h6lago {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    font-size: 1em;
+    background:linear-gradient(265deg, aquamarine, blue )
+}
+.h6valle {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    font-size: 1em;
+    background:linear-gradient(265deg, rgb(5, 126, 45), rgb(41, 199, 1) )
+}
+.h6san {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    font-size: 1em;
+    background:linear-gradient(265deg, rgb(236, 190, 36), dodgerblue )
+}
+.h6letto {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    font-size: 1em;
+    background:linear-gradient(265deg, rgb(222, 243, 35), black )
+}
+.input-fields {
+    display: inline;
+}
+.autore {
+    font-family: 'Montserrat', 'sans serif';
+    color: green;
+    text-decoration: none;
+}
+.unorder-list {
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'Montserrat', 'sans serif';
+    font-size: 1em;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px, #dfdfdf;
+}
+footer {
+    background-color: black;
+    padding: 16px;
+}
+#text-footer {
+    color: rgb(255, 255, 255);
+}
+a {
+    text-decoration: none;
+}
+.valfornace {
+    color: green;
+}
+.autovarn {
+    color: #E30E13;
+
+}
+.varnelli {
+    color: #E30E13;
+}
+.lagob {
+    color: blue;
+}
+.autolago {
+    color: blue;
+}
+.autovalle {
+    color: white;
+}
+.valle {
+    color: white;
+}
+.autosan {
+    color: dodgerblue;
+}
+.san {
+    color: dodgerblue;
+}
+.autoletto {
+    color: black;
+}
+.letto {
+    color:black;
+}
